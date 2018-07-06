@@ -1,2 +1,2 @@
 # genesis
-church software
+church software - genesis
